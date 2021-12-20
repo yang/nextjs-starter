@@ -1,3 +1,9 @@
+# DEPRECATED
+
+Please see https://docs.plasmic.app/learn/quickstart instead for instructions both on how to generate a brand-new Next.js codebase and how to integrate into an existing codebase.
+
+---
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/182806a7-44de-4c6a-97aa-9341fcfe37df/deploy-status)](https://app.netlify.com/sites/plasmic-nextjs-starter-blog/deploys)
 
 # A statically generated blog example using Plasmic, Next.js and Markdown
